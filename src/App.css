@@ -1,0 +1,14 @@
+.shift{
+    margin-left: auto;
+}
+.landing-page{
+    background: white url(./Assets/homeimg.jpg); 
+    background-size: cover;
+    height: 100vh ;
+    color: lightgreen ;
+}
+
+.wrapper{
+    background-color: rgba(0,0,0,0.7);
+    height: 100%;
+}
